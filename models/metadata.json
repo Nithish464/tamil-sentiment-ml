@@ -1,0 +1,19 @@
+{
+  "model_name": "bert-base-multilingual-cased",
+  "num_labels": 3,
+  "id_to_label": {
+    "2": "positive",
+    "1": "neutral",
+    "0": "negative"
+  },
+  "label_map": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 0
+  },
+  "test_accuracy": 0.7619,
+  "test_f1": 0.7271,
+  "best_val_f1": 0.75,
+  "epochs": 2,
+  "max_length": 64
+}

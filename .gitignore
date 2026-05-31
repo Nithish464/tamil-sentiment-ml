@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+models/best_model/
+data/*.csv
+!data/sample_data.csv
+reports/
+.ipynb_checkpoints/
+.vscode/
+kaggle.json

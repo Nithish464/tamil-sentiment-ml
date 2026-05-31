@@ -1,0 +1,38 @@
+# Core NLP
+transformers
+torch
+datasets
+tokenizers
+sentencepiece
+accelerate
+
+# Data Collection
+tweepy==4.14.0
+youtube-comment-downloader==0.1.72
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# ML & Evaluation
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Demo
+gradio
+
+# Utils
+joblib
+loguru
+tqdm
+python-dotenv
+
+# Testing
+pytest
+httpx

@@ -1,0 +1,103 @@
+text,label,language
+"This product is absolutely amazing! Best purchase ever.",positive,english
+"Worst experience I have ever had. Never buying again.",negative,english
+"The quality is okay, nothing special.",neutral,english
+"இந்த பொருள் மிகவும் நல்லா இருக்கு! மீண்டும் வாங்குவேன்.",positive,tamil
+"மிகவும் மோசமான தரம். பணம் வீணானது.",negative,tamil
+"சரியா தான் இருக்கு, ஆனா விலை கொஞ்சம் அதிகமா இருக்கு.",neutral,tamil
+"romba nalla product da! friends ku recommend pannuven",positive,tanglish
+"waste of money da. quality romba mosam",negative,tanglish
+"okay okay tha iruku, onnume special illa",neutral,tanglish
+"Super product! Delivery also fast ah vanduchu.",positive,tanglish
+"Package damaged ah vanduchu. Very disappointed.",negative,english
+"Average product. Not worth the price.",neutral,english
+"இந்த app மிகவும் useful ஆ இருக்கு. Daily use பண்றேன்.",positive,tamil
+"Customer service romba bad. No response at all.",negative,tanglish
+"Decent quality for the price. Could be better.",neutral,english
+"Semma taste! Hotel ku poi saapidura madhiri iruku.",positive,tanglish
+"Food was cold when delivered. Very unhappy.",negative,english
+"Average food. Nothing extraordinary.",neutral,english
+"Package neat ah packing pannirukanga. Happy with purchase.",positive,tanglish
+"Wrong item delivered. Pathetic service.",negative,english
+"Product looks good but functionality is average.",neutral,english
+"இந்த restaurant food மிகவும் சுவையா இருக்கு!",positive,tamil
+"Time waste. Quality zero.",negative,tanglish
+"Okay product but expected more for this price.",neutral,tanglish
+"Excellent! Exceeded my expectations completely.",positive,english
+"Broke after 2 days. Complete waste.",negative,english
+"Normal quality. Gets the job done.",neutral,english
+"Nalla product! Worth the money da.",positive,tanglish
+"தரமில்லாத பொருள். திரும்ப வாங்க மாட்டேன்.",negative,tamil
+"சராசரியான தரம். விலைக்கு ஏத்தமாதிரி இருக்கு.",neutral,tamil
+"Five stars! Will definitely buy again.",positive,english
+"Disappointed with the quality. Not as described.",negative,english
+"It's okay. Does what it's supposed to do.",neutral,english
+"Machi ithu romba use aaguthu daily life la!",positive,tanglish
+"Scam product. Don't buy this.",negative,tanglish
+"Not bad, not great. Just okay.",neutral,english
+"இந்த movie மிகவும் superb! கதை அருமை.",positive,tamil
+"Boring movie. Waste of time.",negative,english
+"Average movie. One time watch.",neutral,tanglish
+"Delivery super fast! Product also good quality.",positive,tanglish
+"Item missing from package. Very bad experience.",negative,english
+"Standard product. Nothing to complain about.",neutral,english
+"இந்த service மிகவும் helpful ஆ இருக்கு.",positive,tamil
+"Rude staff. Terrible experience.",negative,english
+"Moderate service. Room for improvement.",neutral,english
+"Romba thanks! Problem solve aagiduthu.",positive,tanglish
+"No use at all. Complete fraud.",negative,tanglish
+"Decent enough for daily use.",neutral,english
+"இது மிகவும் effective ஆ work பண்றது!",positive,tamil
+"மிகவும் ஏமாற்றமா இருக்கு. Return வேணும்.",negative,tamil
+"திருப்தியா இல்லை ஆனா நல்லதும் இல்லை.",neutral,tamil
+"Great customer support! Issue resolved quickly.",positive,english
+"Waited 2 weeks and still no delivery. Terrible.",negative,english
+"Average response time from support team.",neutral,english
+"Intha app use panna romba easy da!",positive,tanglish
+"Crash aaguthu constantly. Very frustrating.",negative,tanglish
+"Works fine but UI could be improved.",neutral,tanglish
+"இந்த school romba nalla teaching பண்றாங்க.",positive,tanglish
+"Fees too high for poor quality education.",negative,english
+"Average teaching. Some teachers good some bad.",neutral,english
+"Semma experience! Lifelong memory.",positive,tanglish
+"Horrible place. Never going back.",negative,english
+"It was fine. Just an average day out.",neutral,english
+"Product quality romba high! Super satisfied.",positive,tanglish
+"False advertising. Nothing like the pictures.",negative,english
+"Product is as described. Works well.",neutral,english
+"இந்த doctor மிகவும் kind ஆவும் helpful ஆவும் இருந்தாங்க.",positive,tamil
+"Long waiting time. Poor infrastructure.",negative,english
+"Average hospital. Basic facilities available.",neutral,english
+"Nalla coaching! Marks improve aagiduthu.",positive,tanglish
+"Waste of fees. No proper guidance.",negative,tanglish
+"Okay coaching. Depends on which teacher you get.",neutral,tanglish
+"இந்த book மிகவும் informative ஆ இருக்கு!",positive,tamil
+"Boring content. Could not finish reading.",negative,english
+"Decent read. Some interesting chapters.",neutral,english
+"Super fast internet! No lag at all.",positive,tanglish
+"Network always down. Pathetic service.",negative,tanglish
+"Average speed. Occasional disconnections.",neutral,tanglish
+"இந்த game மிகவும் addictive ஆ இருக்கு!",positive,tamil
+"Pay to win game. Unfair to free players.",negative,english
+"Game is okay. Gets repetitive after a while.",neutral,english
+"Romba nalla food! Will order again.",positive,tanglish
+"Hair found in food. Disgusting.",negative,english
+"Food is okay. Nothing special.",neutral,english
+"இந்த tour package மிகவும் worth it!",positive,tamil
+"Overpriced and underdelivered. Scam.",negative,english
+"Average tour. Some places were nice.",neutral,english
+"Battery life semma! Lasts whole day.",positive,tanglish
+"Phone heats up too much. Disappointed.",negative,tanglish
+"Average performance. Battery is okay.",neutral,tanglish
+"இந்த software மிகவும் user-friendly ஆ இருக்கு.",positive,tamil
+"Software crashes frequently. Unusable.",negative,english
+"Software is functional but buggy at times.",neutral,english
+"Romba helpful staff! Problem solve pannanga.",positive,tanglish
+"Rude and unhelpful. Worst customer service.",negative,tanglish
+"Staff is okay. Neither helpful nor rude.",neutral,tanglish
+"இந்த festival romba grand ஆ celebrate பண்ணாங்க!",positive,tamil
+"Event poorly organized. Complete chaos.",negative,english
+"Event was decent. Could be better organized.",neutral,english
+"Super clean hotel! Room service excellent.",positive,tanglish
+"Dirty rooms. Terrible maintenance.",negative,tanglish
+"Average hotel. Basic amenities available.",neutral,tanglish
