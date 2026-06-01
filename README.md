@@ -81,6 +81,6 @@ uvicorn api.main:app --reload
 - **Business use case**: Zomato reviews, political analysis, customer feedback in Tamil Nadu
 - **Live demo**: HuggingFace Spaces URL ready to show in interviews
 
-## 📧 Contact
+## 🚀 Live Demo
+👉 [Try it live on HuggingFace Spaces](https://huggingface.co/spaces/Nithish04/tamil-sentiment-ml)
 
-Built by [Your Name] | [your.email@gmail.com] | [LinkedIn URL]
