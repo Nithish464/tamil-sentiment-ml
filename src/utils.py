@@ -12,8 +12,8 @@ DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 def load_artifacts():
     with open(MODELS_DIR / "metadata.json") as f:
         metadata = json.load(f)
-    tokenizer = AutoTokenizer.from_pretrained(MODELS_DIR / "best_model")
-    model = AutoModelForSequenceClassification.from_pretrained(MODELS_DIR / "best_model")
+    tokenizer = AutoTokenizer.from_pretrained("bert-base-multilingual-cased")
+    model = AutoModelForSequenceClassification.from_pretrained("bert-base-multilingual-cased", num_labels=3)
     model = model.to(DEVICE)
     model.eval()
     return model, tokenizer, metadata
